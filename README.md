@@ -1,3 +1,4 @@
-# Project_30_weeks
-What can I achive within 30 weeks? Progress will be documented here.
-That is a test | Row 2
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
