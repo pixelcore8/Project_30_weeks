@@ -1,11 +1,12 @@
 # Project_30_weeks
 
-##CHANGE THROUGH CHALLENGE
+## CHANGE THROUGH CHALLENGE
 
 **START: 15.12.2017
 END: 12.07.2017**
 
-##TASKS
+## TASKS
+
 * EAT CLEAN
   * No fast food
   * No (industrial) sugar
@@ -22,10 +23,12 @@ END: 12.07.2017**
   
 What can I achive within 30 weeks? Progress will be documented here.
 
-##FOLLOW/ DAILY UPDATES
+## FOLLOW/ DAILY UPDATES
+
 https://mastodon.art/@pixelcore8
 
-##PROGRESS
+## PROGRESS
+
 X = DONE | O = MISSED
 
 Date | Eat Clean | Sport | Meditate | Panting | Coding | Reading
